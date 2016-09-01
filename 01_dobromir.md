@@ -172,7 +172,7 @@ sought. I saw something of Ratimir's long face in his, and despite the
 protestations of my court, I have appointed him my personal physician. I shall
 go riding with him tomorrow.
 
-> _Historian's note: It is unclear whether King Dobrimir is talking about the man
+> _Historian's note: It is unclear whether King Dobromir is talking about the man
 or the horse in this passage. He describes the man in dismissive terms, but
 then, it beggars belief to think that he could appoint a_ horse _as court
 physician._
@@ -214,10 +214,10 @@ I hear that a Frenchman of that noble house of Bourbon had been making it known
 that he coveted my crown, to which he had not even a pretense of a claim. I
 hear also that [God struck him down][18].
 
-> _Historian's note: Dobrimir is referring to the death by poison of Érrard de
+> _Historian's note: Dobromir is referring to the death by poison of Érrard de
 Bourbon. The journals of Robert de Bourbon are rather less circumspect, and
 reveal that he poisoned Érrard, with the full knowledge and complicity of King
-Dobrimir._
+Dobromir._
 
 [18]: 01_dobromir_images/20160827121600_1.jpg
 
